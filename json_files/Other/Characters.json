@@ -1,0 +1,101 @@
+{
+  "files": [
+    "BW_giovanni.png",
+    "Medium.png",
+    "trainer004.png",
+    "trainer006.png",
+    "trainer007.png",
+    "trainer007a.png",
+    "trainer027.png",
+    "trainer038.png",
+    "trainer039.png",
+    "trainer043.png",
+    "trainer044.png",
+    "trainer058.png",
+    "trainer061.png",
+    "trainer066.png",
+    "trainer093.png"
+  ],
+  "Caesar Legion": {
+    "files": [
+      "BW2_rocket2female.png",
+      "BW2_rocketmale.png",
+      "BW_giovanni.png",
+      "trainer056.png",
+      "trainer057.png",
+      "trainer058.png",
+      "trainer066.png",
+      "vsTrainer58.png",
+      "vsTrainer66.png"
+    ]
+  },
+  "Misty to Nessa": {
+    "Characters": {
+      "files": [
+        "BWLeaderMisty.png",
+        "Misty_swim.png",
+        "trainer060.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer60.png"
+      ]
+    }
+  },
+  "Rival to Dark Link": {
+    "Characters": {
+      "files": [
+        "gary_oak_overworld_bw_completed_by_malice936-d5ruwuc.png",
+        "trainer004.png",
+        "trchar004.png"
+      ]
+    },
+    "Trainers": {
+      "files": [
+        "trainer004.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer_CHAMPION.png",
+        "vsTrainer_RIVAL1.png"
+      ]
+    }
+  },
+  "Team Magmaqua": {
+    "characters": {
+      "files": [
+        "BW2_rocket(female).png",
+        "BW2_rocket(male).png",
+        "BW_giovanni.png",
+        "trainer056.png",
+        "trainer057.png",
+        "trainer066.png"
+      ]
+    },
+    "transitions": {
+      "files": [
+        "vsTrainer58.png",
+        "vsTrainer66.png"
+      ]
+    }
+  },
+  "fixes": {
+    "files": [
+      "trainer012.png",
+      "trainer060.png",
+      "trainer072.png",
+      "trainer075.png",
+      "trainer076.png",
+      "trainer077.png",
+      "trainer078.png",
+      "trainer080.png",
+      "trainer081.png",
+      "trainer093.png",
+      "trainer100.png",
+      "trainer110.png",
+      "trainer113.png"
+    ]
+  }
+}

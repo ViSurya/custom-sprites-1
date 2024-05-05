@@ -1,0 +1,542 @@
+{
+  "Chase": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trback100.png",
+        "trchar000.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introBoy.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    }
+  },
+  "Cheryl": {
+    "Characters": {
+      "files": [
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_fishsurf_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trainer001.png",
+        "trback101.png",
+        "trchar001.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introGirl.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png"
+      ]
+    }
+  },
+  "Day-Off Dad": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_fishsurf_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trainer_POKEMONTRAINER_Red.png",
+        "trback100.png",
+        "trchar000.png",
+        "trchar000_10.png",
+        "trchar001_10.png"
+      ],
+      "players": {
+        "files": [
+          "boy_bike.png",
+          "boy_fish_offset.png",
+          "boy_run.png",
+          "boy_surf_offset.png",
+          "trchar000.png"
+        ]
+      }
+    },
+    "Trainers": {
+      "files": [
+        "POKEMONTRAINER_Red.png",
+        "POKEMONTRAINER_Red_back.png",
+        "trainer000.png",
+        "trback000.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png",
+        "vsTrainer_POKEMONTRAINER_Red.png"
+      ]
+    }
+  },
+  "Deoxys": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trchar000.png",
+        "trchar000_10.png",
+        "trchar001_10.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "IntroBoy.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    }
+  },
+  "Eevee": {
+    "files": [
+      "POKEMONTRAINER_Red_back.png",
+      "boy_bike.png",
+      "boy_dive_offset.png",
+      "boy_fish_offset.png",
+      "boy_run.png",
+      "boy_surf_offset.png",
+      "trchar000.png",
+      "vsTrainer0.png"
+    ]
+  },
+  "Elaine": {
+    "Characters": {
+      "files": [
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trainer001.png",
+        "trback101.png",
+        "trchar001.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introGirl.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png"
+      ]
+    }
+  },
+  "Hatsune Miku New": {
+    "Characters": {
+      "files": [
+        "POKEMONTRAINER_Leaf.png",
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_fishsurf_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "pokeflute.png",
+        "trainer001.png",
+        "trainer_POKEMONTRAINER_Leaf.png",
+        "trback101.png",
+        "trchar000_10.png",
+        "trchar001.png",
+        "trchar001_10.png"
+      ],
+      "players": {
+        "files": [
+          "girl_bike.png",
+          "girl_dive_offset.png",
+          "girl_fish_offset.png",
+          "girl_fishsurf_offset.png",
+          "girl_run.png",
+          "girl_surf_offset.png",
+          "pokeflute.png",
+          "trchar001.png"
+        ]
+      }
+    },
+    "Pictures": {
+      "files": [
+        "introGirl.png"
+      ]
+    },
+    "Trainers": {
+      "files": [
+        "POKEMONTRAINER_Leaf.png",
+        "POKEMONTRAINER_Leaf_back.png",
+        "trainer001.png",
+        "trback001.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png",
+        "vsTrainer_POKEMONTRAINER_Leaf.png"
+      ]
+    }
+  },
+  "Hex Maniac": {
+    "files": [
+      "POKEMONTRAINER_Leaf.png",
+      "POKEMONTRAINER_Leaf_back.png",
+      "girl_bike.png",
+      "girl_dive_offset.png",
+      "girl_fish_offset.png",
+      "girl_fishsurf_offset.png",
+      "girl_run.png",
+      "girl_surf_offset.png",
+      "introGirl.png",
+      "trchar001.png",
+      "trchar001_10.png",
+      "vsTrainer1.png",
+      "vsTrainer_POKEMONTRAINER_Leaf.png"
+    ]
+  },
+  "Jotaro": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trback100.png",
+        "trchar000.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introBoy.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    }
+  },
+  "Link (boy)": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_fishsurf_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trainer_POKEMONTRAINER_Red.png",
+        "trback100.png",
+        "trchar000.png"
+      ]
+    },
+    "Trainers": {
+      "files": [
+        "POKEMONTRAINER_Red.png",
+        "POKEMONTRAINER_Red_back.png",
+        "trainer000.png",
+        "trback000.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png",
+        "vsTrainer_POKEMONTRAINER_Red.png"
+      ]
+    }
+  },
+  "Link (girl)": {
+    "Characters": {
+      "files": [
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_fishsurf_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trainer001.png",
+        "trainer_POKEMONTRAINER_Leaf.png",
+        "trback101.png",
+        "trchar001.png"
+      ]
+    },
+    "Trainers": {
+      "files": [
+        "POKEMONTRAINER_Leaf.png",
+        "POKEMONTRAINER_Leaf_back.png",
+        "trainer001.png",
+        "trback001.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png",
+        "vsTrainer_POKEMONTRAINER_Leaf.png"
+      ]
+    }
+  },
+  "Mario": {
+    "files": [
+      "POKEMONTRAINER_Red by Super_Willy#6877.png",
+      "POKEMONTRAINER_Red_back by Super_Willy#6877.png",
+      "boy_bike by Super_Willy#6877.png",
+      "boy_dive_offset by Super_Willy#6877.png",
+      "boy_fish_offset by Super_Willy#6877.png",
+      "boy_fishsurf_offset by Super_Willy#6877.png",
+      "boy_run by Super_Willy#6877.png",
+      "boy_surf_offset by Super_Willy#6877.png",
+      "trchar000 by Super_Willy#6877 (2).png",
+      "trchar000 by Super_Willy#6877.png",
+      "vsTrainer0 by Super_Willy#6877.png"
+    ]
+  },
+  "May": {
+    "files": [
+      "POKEMONTRAINER_Leaf.png",
+      "POKEMONTRAINER_Leaf_back.png",
+      "girl_bike.png",
+      "girl_dive_offset.png",
+      "girl_fish_offset.png",
+      "girl_fishsurf_offset.png",
+      "girl_run.png",
+      "girl_surf_offset.png",
+      "trainer093.png",
+      "trchar000_10.png",
+      "trchar001.png",
+      "vsTrainer_POKEMONTRAINER_Leaf.png"
+    ]
+  },
+  "Mewtwo": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_fishsurf_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trainer093.png",
+        "trchar000.png",
+        "trchar000_10X.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    }
+  },
+  "Mewtwo 2": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_fishsurf_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trchar000.png"
+      ]
+    },
+    "Trainers": {
+      "files": [
+        "POKEMONTRAINER_Red.png",
+        "POKEMONTRAINER_Red_back.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    },
+    "files": [
+      "trainer000.png",
+      "trainer_POKEMONTRAINER_Red.png",
+      "trback100.png",
+      "vsTrainer_POKEMONTRAINER_Red.png"
+    ]
+  },
+  "Nemona Rival(Scarlet)": {
+    "files": [
+      "gary_oak_overworld_bw_completed_by_malice936-d5ruwuc.png",
+      "trainer004.png",
+      "trchar004.png",
+      "vsTrainer_CHAMPION.png",
+      "vsTrainer_RIVAL1.png"
+    ]
+  },
+  "Nemona Rival(Violet)": {
+    "files": [
+      "gary_oak_overworld_bw_completed_by_malice936-d5ruwuc.png",
+      "trainer004.png",
+      "trchar004.png",
+      "vsTrainer_CHAMPION.png",
+      "vsTrainer_RIVAL1.png"
+    ]
+  },
+  "Nessa": {
+    "Characters": {
+      "files": [
+        "girl_bike.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trainer001.png",
+        "trchar001.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introGirl.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png"
+      ]
+    }
+  },
+  "Omori": {
+    "files": [
+      "introBoy.png",
+      "trchar000.png",
+      "vsTrainer_POKEMONTRAINER_Red.png"
+    ]
+  },
+  "Raichu": {
+    "Characters": {
+      "files": [
+        "boy_bike.png",
+        "boy_dive_offset.png",
+        "boy_fish_offset.png",
+        "boy_run.png",
+        "boy_surf_offset.png",
+        "trainer000.png",
+        "trchar000.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0.png"
+      ]
+    }
+  },
+  "Red (fixed)": {
+    "files": [
+      "boy_bike.png",
+      "boy_dive_offset.png",
+      "boy_fish_offset.png",
+      "boy_run.png",
+      "boy_surf_offset.png",
+      "trchar000.png",
+      "vsTrainer0.png"
+    ]
+  },
+  "Red (fixes)": {
+    "files": [
+      "boy_run.png",
+      "trchar000.png"
+    ]
+  },
+  "Sei Shonagon": {
+    "Characters": {
+      "files": [
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trainer001.png",
+        "trchar001.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "introGirl.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer1.png"
+      ]
+    }
+  },
+  "Yoshi": {
+    "files": [
+      "boy_run.png",
+      "trchar000.png"
+    ]
+  },
+  "base": {
+    "Characters": {
+      "files": [
+        "boy_bike (original).png",
+        "boy_dive_offset (original).png",
+        "boy_fish_offset (original).png",
+        "boy_fishsurf_offset (original).png",
+        "boy_run (original).png",
+        "boy_surf_offset (original).png",
+        "trainer000 (original).png",
+        "trainer093 (original).png",
+        "trchar000 (original).png",
+        "trchar000_10 (original).png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer0 (original).png"
+      ]
+    }
+  },
+  "thornsoflight": {
+    "Characters": {
+      "files": [
+        "POKEMONTRAINER_Leaf_back.png",
+        "girl_bike.png",
+        "girl_dive_offset.png",
+        "girl_fish_offset.png",
+        "girl_fishsurf_offset.png",
+        "girl_run.png",
+        "girl_surf_offset.png",
+        "trchar001.png",
+        "trchar001_10.png"
+      ]
+    },
+    "Transitions": {
+      "files": [
+        "vsTrainer_POKEMONTRAINER_Leaf.png"
+      ]
+    }
+  },
+  "files": [
+    "trchar001.png",
+    "trchar001a.png"
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "GS Summary Backgrounds": {
+    "files": [
+      "summary1.png",
+      "summary2.png",
+      "summary3.png",
+      "summary4.png",
+      "summary4details.png",
+      "summary4learning.png",
+      "summary5.png",
+      "summaryEgg.png"
+    ]
+  },
+  "Pokedex Dark Theme": {
+    "files": [
+      "downarrow.png",
+      "pokedexBlank.png",
+      "pokedexEntry.png",
+      "pokedexOwned.png",
+      "pokedexSearchbg.png",
+      "pokedexSeen.png",
+      "pokedexSel.png",
+      "pokedexSlider.png",
+      "pokedexTypes.png",
+      "pokedexbg.png",
+      "uparrow.png"
+    ]
+  },
+  "files": [
+    "Readme.txt"
+  ],
+  "Rocket Ball": {
+    "Icons": {
+      "files": [
+        "item267.png"
+      ]
+    },
+    "Pictures": {
+      "files": [
+        "ball00.png",
+        "ball00_open.png"
+      ]
+    }
+  },
+  "bag": {
+    "files": [
+      "Bag1.png",
+      "Bag1F.png",
+      "Bag2.png",
+      "Bag2F.png",
+      "Bag3.png",
+      "Bag3F.png",
+      "Bag4.png",
+      "Bag4F.png",
+      "Bag5.png",
+      "Bag5F.png",
+      "Bag6.png",
+      "Bag6F.png",
+      "Bag7.png",
+      "Bag7F.png",
+      "Bag8.png",
+      "Bag8F.png"
+    ],
+    "dark souls skin": {
+      "bag": {
+        "files": [
+          "bag_1.PNG",
+          "bag_1_f.PNG",
+          "bag_2.PNG",
+          "bag_2_f.PNG",
+          "bag_3.PNG",
+          "bag_3_f.PNG",
+          "bag_4.PNG",
+          "bag_4_f.PNG",
+          "bag_5.PNG",
+          "bag_5_f.PNG",
+          "bag_6.PNG",
+          "bag_6_f.PNG",
+          "bag_7.PNG",
+          "bag_7_f.PNG",
+          "bag_8.PNG",
+          "bag_8_f.PNG",
+          "bg_1.png",
+          "bg_2.png",
+          "bg_3.png",
+          "bg_4.png",
+          "bg_5.png",
+          "bg_6.png",
+          "bg_7.png",
+          "bg_8.png",
+          "cursor.png",
+          "cursor_swap.png",
+          "icon_pocket.png",
+          "icon_register.png",
+          "icon_slider.png"
+        ]
+      }
+    }
+  },
+  "boxes": {
+    "files": [
+      "box1.png",
+      "box10 (1).png",
+      "box10.png",
+      "box13.png",
+      "box20.png",
+      "box23.png",
+      "box5 (1).png",
+      "box5.png",
+      "box9.png",
+      "boxpartytab.png",
+      "boxsides.png"
+    ]
+  },
+  "goldsilver menu": {
+    "files": [
+      "partyBall.png",
+      "partyBallSel.png",
+      "partyPanelBlank.png",
+      "partyPanelRect.png",
+      "partyPanelRectSel.png",
+      "partyPanelRectSelSwap.png",
+      "partyPanelRectSwap.png",
+      "partyPanelRound.png",
+      "partyPanelRoundSel.png",
+      "partyPanelRoundSelSwap.png",
+      "partyPanelRoundSwap.png",
+      "partybg.png"
+    ]
+  }
+}
